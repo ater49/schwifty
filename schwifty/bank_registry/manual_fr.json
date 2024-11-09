@@ -971,8 +971,8 @@
         "country_code": "FR",
         "bic": "BDUPFR2SXXX",
         "bank_code": "12939",
-        "name": "B",
-        "short_name": "A",
+        "name": "Banque Dupuy, De Parseval",
+        "short_name": "Banque Dupuy, De Parseval",
         "primary": true
     },
     {
@@ -1515,8 +1515,8 @@
         "country_code": "FR",
         "bic": "BARCFRPC",
         "bank_code": "30588",
-        "name": "B",
-        "short_name": "A",
+        "name": "BARCLAYS BANK IRELAND PLC PARIS",
+        "short_name": "BARCLAYS BANK PARIS",
         "primary": true
     },
     {
